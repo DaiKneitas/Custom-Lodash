@@ -1,3 +1,3 @@
 # custom-lodash
 
-completed custom-lodash library for RS-Schoold task
+completed custom-lodash library for RS-Schools task
